@@ -1,0 +1,11 @@
+{
+  "name": "functional-cartesian-product",
+  "description": "cartesian product in a functional style",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "license": "MIT",
+  "repository": "kemitchell/functional-cartesian-product.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
